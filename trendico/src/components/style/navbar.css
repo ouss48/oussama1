@@ -1,0 +1,18 @@
+.navbar-brand #logo{
+    padding-top: 25px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+.navBg{
+    background-color: transparent;
+}
+
+#basic-navbar-nav{
+    margin-right: -50px;
+}
+
+#black-logo img{
+    display: block;
+    height: 30px;
+    width: 130px;
+}
